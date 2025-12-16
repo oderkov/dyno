@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Dyno.ApiService/Dyno.ApiService.csproj" />
+  <Project Path="Dyno.AppHost/Dyno.AppHost.csproj" />
+  <Project Path="Dyno.ServiceDefaults/Dyno.ServiceDefaults.csproj" />
+  <Project Path="Dyno.Tests/Dyno.Tests.csproj" />
+  <Project Path="Dyno.Web/Dyno.Web.csproj" />
+</Solution>
