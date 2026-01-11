@@ -1,4 +1,9 @@
 <Solution>
+  <Folder Name="/Items/">
+    <File Path="Directory.Build.props" />
+    <File Path="Directory.Packages.props" />
+    <File Path="NuGet.config" />
+  </Folder>
   <Project Path="Dyno.ApiService/Dyno.ApiService.csproj" />
   <Project Path="Dyno.AppHost/Dyno.AppHost.csproj" />
   <Project Path="Dyno.ServiceDefaults/Dyno.ServiceDefaults.csproj" />
